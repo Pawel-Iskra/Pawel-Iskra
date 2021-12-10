@@ -1,11 +1,10 @@
-### Hi there 👋   <img src= "https://user-images.githubusercontent.com/52103903/145461848-16436bdc-2aa0-44d4-9b8f-bc585f2d835f.png" width="42" height="32">
-
+### Hi there 👋 
 [![Pawel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pawel-Iskra&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawel-Iskra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 
-
+<!--<img src= "https://user-images.githubusercontent.com/52103903/145461848-16436bdc-2aa0-44d4-9b8f-bc585f2d835f.png" width="42" height="32">-->
 <!--<img src= "https://user-images.githubusercontent.com/52103903/145464321-38feeaf1-8b4a-4b7c-9008-68815e49469e.png" width="40" height="40">-->
 
 
