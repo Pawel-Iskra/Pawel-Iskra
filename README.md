@@ -1,5 +1,5 @@
 ### Hi there 👋 
-[![Pawel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pawel-Iskra&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Pawel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pawel-Iskra&show_icons=true&theme=)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawel-Iskra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
