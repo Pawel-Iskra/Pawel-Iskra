@@ -7,7 +7,8 @@
 </td>
 <td valign="top">
 <!-- RIGHT -->
-<img src="https://ghstats.dev/api/card?username=Pawel-Iskra&theme=light&bg=ffffff">
+<img src="https://ghstats.dev/api/card?username=Pawel-Iskra&theme=light&bg=ffffff"
+     width="75%">
 </td>
 </tr>
 </table>
