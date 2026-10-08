@@ -3,7 +3,7 @@
 <tr>
 <td valign="top">
 
-<img src="https://ghstats.dev/api/card?username=Pawel-Iskra&theme=light&bg=ffffff&hide=issues,prs,active_day,avg,hours"
+<img src="https://ghstats.dev/api/card?username=Pawel-Iskra&theme=light&bg=ffffff&hide=issues,prs,active_day,avg,hours,grade"
      width="80%">
 
 </td>
