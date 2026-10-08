@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My GitHub stats](https://gh-stats-gen.vercel.app/api?username=Pawel-Iskra&theme=tokyonight)
+![GitHub Stats](https://ghstats.dev/api/card?username=Pawel-Iskra&theme=tokyonight)
