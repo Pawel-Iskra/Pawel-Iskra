@@ -9,7 +9,9 @@
 </td>
 <td valign="top">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawel-Iskra&layout=compact)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Pawel-Iskra&layout=compact&theme=light&bg=ffffff)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawel-Iskra&layout=compact)  -->
 </td>
 </tr>
 </table>
