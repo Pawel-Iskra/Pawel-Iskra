@@ -3,9 +3,10 @@
 <tr>
 <td valign="top">
 
-<img src="https://ghstats.dev/api/card?username=Pawel-Iskra&theme=light&bg=ffffff&hide=issues,prs,active_day,avg,hours,grade,followers,stars"
-     width="80%">
+<!--<img src="https://github-stats-extended.vercel.app/api?username=Pawel-Iskra&theme=light&bg=ffffff" width="80%">-->
+<!-- <img src="https://ghstats.dev/api/card?username=Pawel-Iskra&theme=light&bg=ffffff&hide=issues,prs,active_day,avg,hours,grade,followers,stars" width="80%"> -->
 
+<img src="https://github-stats-extended.vercel.app/api?username=Pawel-Iskra&hide=issues,contributed" width="80%">
 </td>
 <td valign="top">
 
